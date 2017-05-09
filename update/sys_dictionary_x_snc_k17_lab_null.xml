@@ -3,7 +3,6 @@
     <sys_dictionary action="INSERT_OR_UPDATE" element="" table="x_snc_k17_lab">
         <active>true</active>
         <array>false</array>
-        <array_denormalized>false</array_denormalized>
         <attributes/>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
@@ -53,7 +52,7 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-05-09 17:54:28</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>9231677ef9a232007f44d65b865e5b81</sys_id>
+        <sys_id>7d5827b2db22320018f37befbf96193c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_k17_lab</sys_name>
         <sys_package display_value="K17" source="x_snc_k17">0b5e53baf9a232007f44d65b865e5bb3</sys_package>
@@ -62,7 +61,7 @@
         <sys_scope display_value="K17">0b5e53baf9a232007f44d65b865e5bb3</sys_scope>
         <sys_update_name>sys_dictionary_x_snc_k17_lab_NULL</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2017-05-09 18:06:58</sys_updated_on>
+        <sys_updated_on>2017-05-09 18:38:04</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
